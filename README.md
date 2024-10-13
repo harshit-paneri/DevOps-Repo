@@ -16,3 +16,6 @@
 
 ## Cloud Watch Logs/ Dashboard
 ![alt text](images/image.png)
+
+## SNS Notification Image
+![alt text](images/sns.png)
